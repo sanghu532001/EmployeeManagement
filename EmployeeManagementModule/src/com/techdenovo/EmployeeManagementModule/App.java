@@ -19,6 +19,7 @@ public class App {
 	            System.out.println("5. Exit");
 	            System.out.println("");
 	            System.out.print("Enter your choice: ");
+	            System.out.println("");
 	            choice = scanner.next().charAt(0);
 	            System.out.println("");
 	            
